@@ -1,4 +1,4 @@
-**Mountains** is s drupal distribution for photo websites provided by Zixels. This distribution is for our internal use. Feel free to fork it and use it in your own project.
+**Mountains** is a drupal distribution for photo websites provided by Zixels. This distribution is for our internal use. Feel free to fork it and use it in your own project.
 
 CONTENTS OF THIS FILE
 ---------------------
